@@ -1,8 +1,6 @@
 package sorting;
 
-/**
- * Created by Wilson on 8/28/2015.
- */
+
 public class Countingsort {
 
 
