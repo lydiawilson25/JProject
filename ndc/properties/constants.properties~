@@ -1,0 +1,11 @@
+DIR_PATH=/home/wstephen/Documents/IdeaProjects/FDADrugDatabase/files/
+URL=http://www.fda.gov/downloads/Drugs/InformationOnDrugs/UCM054599.zip
+FILE1=AppDocType_Lookup.txt
+FILE2=AppDoc.txt
+FILE3=RegActionDate.txt
+FILE4=DocType_lookup.txt
+FILE5=application.txt
+FILE6=Product.txt
+FILE7=Product_tecode.txt
+FILE8=ChemTypeLookup.txt
+FILE9=ReviewClass_Lookup.txt

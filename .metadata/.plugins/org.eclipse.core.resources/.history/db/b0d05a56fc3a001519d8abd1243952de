@@ -1,0 +1,36 @@
+package string;
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+	public static void main(String[] args) {
+		/*
+		 * Enter your code here. Read input from STDIN. Print output to STDOUT.
+		 * Your class should be named Solution.
+		 */
+		String str = "welcometojava";
+		int limit = 3;
+		findword(str, limit);
+	}
+
+	public static void findword(String str, int limit) {
+		char[] carr = str.toCharArray();
+		int len = str.length();
+		char min = 'z', max = 'a';
+		for (int i = 0; i < len - limit; i++) {
+			if (str.charAt(i) < min)
+				min = str.charAt(i);
+			if (str.charAt(i) > max) {
+				max = str.charAt(i);
+			}
+		}
+		String small = str.substring(str.indexOf(min), str.indexOf(min) + limit - 1);
+		String big = str.substring(str.indexOf(max), str.indexOf(max) + limit - 1);
+		System.out.println("The string are:"+small + " " + big);
+	}
+}

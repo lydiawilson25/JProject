@@ -1,0 +1,22 @@
+package codewars;
+/**
+ * Created by Wilson on 8/27/2015.
+ */
+
+import java.lang.Math;
+public class WaterVolume {
+    public static void main(String[] args){
+        int[] arr = {2,0,3,0,4,0,1};
+        System.out.println(findvolume(arr));
+    }
+
+    public static int findvolume(int[] arr){
+        int len = arr.length, maxh=0,vol=0;
+        for(int i=0;i<len-1;i++){
+            if(arr[i]<arr[i+1])
+                System.out.println(arr[i]);
+        }
+        return vol;
+
+    }
+}

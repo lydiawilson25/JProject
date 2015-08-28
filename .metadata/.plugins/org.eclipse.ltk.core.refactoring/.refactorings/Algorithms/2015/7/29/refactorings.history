@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Algorithms/stringtointeger&apos; to &apos;stringtointeger.java&apos;" description="Rename resource &apos;stringtointeger&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="stringtointeger" name="stringtointeger.java" stamp="1437021694108" updateReferences="true"/>
+</session>

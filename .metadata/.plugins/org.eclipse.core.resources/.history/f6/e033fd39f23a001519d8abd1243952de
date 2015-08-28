@@ -1,0 +1,36 @@
+package string;
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        Scanner in =new Scanner(System.in);
+        String str = in.next();
+        int limit = in.nextInt();
+        findword(str,limit);
+    }
+    
+    public static void findword(String str, int limit){
+        char[] carr = str.toCharArray();
+        StringBuilder small=null,big=null;
+        Arrays.sort(carr);
+        char min=carr[0];
+        char max=carr[str.length()-1];
+        for(int i=0;i<str.length();i++){
+            if(str.charAt(i)==min){
+                String temp = str.substring(i,i+limit);
+                small.append(temp);
+            }
+            else if(str.charAt(i)==max){
+                String temp = str.substring(i,i+limit);
+                big.append(temp);
+            }
+        }
+        System.out.println(small+" "+big);
+    }
+}

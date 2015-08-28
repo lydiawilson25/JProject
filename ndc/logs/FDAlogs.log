@@ -1,0 +1,12 @@
+2014-10-31 15:27:04 INFO  FDAProperties:33 - Properties are loaded
+2014-10-31 15:27:04 INFO  NormalizationTable:222 - Testing if normalized table CONCEPT_MRCONSO_NORM exists
+2014-10-31 15:27:04 INFO  NormalizationTable:224 - Please wait...
+2014-10-31 15:27:05 INFO  NormalizationTable:232 - Table exists, row count: 2563083
+2014-10-31 15:27:05 INFO  NormalizationTable:68 - i am hereTAXONOMY_SYN_NORM
+2014-10-31 15:27:05 INFO  NormalizationTable:80 - i amsdsd here
+2014-10-31 15:27:09 INFO  NormalizationTable:82 - i amsdssdfsdfdsd here
+2014-10-31 15:45:27 INFO  NormalizationTable:222 - Testing if normalized table TAXONOMY_SYN_NORM exists
+2014-10-31 15:45:27 INFO  NormalizationTable:224 - Please wait...
+2014-10-31 15:45:27 INFO  NormalizationTable:232 - Table exists, row count: 258212
+2014-10-31 15:45:27 INFO  DrugsProcessor:43 - Mission accomplished in 0 hours 18 minutes and 23 seconds.
+2014-10-31 15:45:27 INFO  DrugsProcessor:44 - Finished.

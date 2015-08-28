@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Customer/Customer.iml" filepath="$PROJECT_DIR$/Customer/Customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlistex/Linkedlistex.iml" filepath="$PROJECT_DIR$/Linkedlistex/Linkedlistex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algorithms.iml" filepath="$PROJECT_DIR$/algorithms/algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aspera/aspera.iml" filepath="$PROJECT_DIR$/aspera/aspera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtrack/backtrack.iml" filepath="$PROJECT_DIR$/backtrack/backtrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarysearchtrees/binarysearchtrees.iml" filepath="$PROJECT_DIR$/binarysearchtrees/binarysearchtrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitset/bitset.iml" filepath="$PROJECT_DIR$/bitset/bitset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codebyter/codebyter.iml" filepath="$PROJECT_DIR$/codebyter/codebyter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeval/codeval.iml" filepath="$PROJECT_DIR$/codeval/codeval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cprogram/cprogram.iml" filepath="$PROJECT_DIR$/cprogram/cprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic programming/dynamic programming.iml" filepath="$PROJECT_DIR$/dynamic programming/dynamic programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileio/fileio.iml" filepath="$PROJECT_DIR$/fileio/fileio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googleinterview/googleinterview.iml" filepath="$PROJECT_DIR$/googleinterview/googleinterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hacker/hacker.iml" filepath="$PROJECT_DIR$/hacker/hacker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashtable/hashtable.iml" filepath="$PROJECT_DIR$/hashtable/hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multidimensionalarrays/multidimensionalarrays.iml" filepath="$PROJECT_DIR$/multidimensionalarrays/multidimensionalarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndc/ndc.iml" filepath="$PROJECT_DIR$/ndc/ndc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numbers/numbers.iml" filepath="$PROJECT_DIR$/numbers/numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trees/trees.iml" filepath="$PROJECT_DIR$/trees/trees.iml" />
+    </modules>
+  </component>
+</project>
