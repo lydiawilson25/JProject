@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename Java project &apos;oneinterview&apos; to &apos;yelpcode&apos;&#x0D;&#x0A;- Original element: &apos;oneinterview&apos;&#x0D;&#x0A;- Renamed element: &apos;oneinterview&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;oneinterview&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=oneinterview" name="yelpcode" references="true" stamp="1440809541327" version="1.0"/>&#x0A;&#x0A;</session>
